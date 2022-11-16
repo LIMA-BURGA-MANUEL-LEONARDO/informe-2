@@ -52,7 +52,7 @@ La formula de la resistencia es: R=V/I
 
 a) V=1.5V
 
-I=7. 5m                          
+I=7.5mA
 
 b) V=2V
 
@@ -69,3 +69,41 @@ I=20mA
 e) V=10V
 
 I=50mA
+8) Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
+
+
+![image](https://user-images.githubusercontent.com/116760257/202305414-c4bbce83-1f20-432b-b8c0-2d359cb813ee.png)
+
+10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+I=V/R
+
+a)50/3300=15mA b)75/3900=19.23mA c)100/4700mA=21.28mA
+
+
+A tiene más corriente y A tiene menos
+
+
+12)Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+
+Para este ejercicio utilizo la medida de la corriente en amperios:
+
+
+100mA= 0.1A, 150mA= 0.15mA
+
+
+Encuentro mi resistencia con el valor de la corriente inicial:
+
+
+r=20/0.1 = 200Ω -----> con este valor de resistencia calculo un nuevo voltaje con la corriente deseada: V= (0.15A)x(200Ω)=30V
+
+
+Si la fuente inicial era de 20V tiene que incrementar 10V ya que el voltaje requerido para 0.15A es de 30V
+
+
+14)¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
+
+
+Si debido a que cuando aumenta el voltaje, también la corriente, es decir son proporcionales
+
