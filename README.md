@@ -52,7 +52,7 @@ La formula de la resistencia es: R=V/I
 
 a) V=1.5V
 
-I=7.5mA
+I=7. 5m                          
 
 b) V=2V
 
